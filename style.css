@@ -1,0 +1,16 @@
+div{
+    background-color: black;
+
+}
+button{
+    background-color: aquamarine;
+    border: none;
+    height: 50px;
+    width: 146px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
