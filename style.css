@@ -9,6 +9,12 @@ button{
     width: 146px;
     margin-top: 10px;
     margin-left: 10px;
+    border-radius: 25px;
+    font-weight: 800;
+}
+button:hover{
+    background-color: royalblue;
+    color: white;
 }
 h1{
     color: white;
